@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **alfonso5al/alfonso5al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Alfonso</a> 😄</h1>
+</div>
+
+## About me
+- 🖥 VR developer
+- 🎓 Multimedia Engineer
+- 👀 Interested in VR , AR, Java, C# & Unity
+
+## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,vscode,unity,js,html,css,php,github&perline=15&theme=dark)](https://skillicons.dev)
