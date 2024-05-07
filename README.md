@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 👀 Interested in VR , AR, Java, C# & Unity
 
 ## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,vscode,unity,js,html,css,php,github&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,blender,java,vscode,unity,js,html,css,php,github&perline=15&theme=dark)](https://skillicons.dev)
